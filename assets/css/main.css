@@ -955,7 +955,6 @@ body {
 .work--lockup .slider {
   display: flex;
   width: 100%;
-  margin-bottom: 30px;
 }
 
 .work--lockup .slider--item {
