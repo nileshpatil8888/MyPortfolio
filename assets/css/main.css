@@ -953,21 +953,13 @@ body {
 }
 
 .work--lockup .slider {
-  position: relative;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  width: 80%;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+  width: 100%;
+  margin-bottom: 35px;
 }
 
 .work--lockup .slider--item {
-  position: absolute;
-  display: none;
-  text-align: center;
+  padding: 0px 10px 0px 10px;
 }
 
 .work--lockup .slider--item a {
